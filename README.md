@@ -14,7 +14,7 @@ The goal of this project is to provide an interactive Tableau dashboard that all
 
 ▪ Dataset is based on UK region which has around 500,000 records collected over the time period 2019-2022.
 
-▪ The dataset can be accessed from following link:
+▪ The dataset can be accessed from following link:https://github.com/PrasannVerma/Road-Accident-Analysis-using-Tableau/blob/main/accident_data.7z.001
 
 ## Major KPIs
 
