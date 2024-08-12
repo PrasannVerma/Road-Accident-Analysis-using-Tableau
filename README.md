@@ -5,6 +5,7 @@
 ## Project Overview
 
 This Tableau project is focused on analyzing traffic accident data to identify key trends and insights related to casualties. The project uses several key performance indicators (KPIs) to measure the severity and impact of traffic accidents, including metrics related to accident severity, vehicle type, road type, and other factors.
+Link to the Dashboard- https://public.tableau.com/views/FinalProject_17234589398840/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Goal
 
