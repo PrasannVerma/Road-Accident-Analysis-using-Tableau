@@ -21,4 +21,9 @@ Total accidents in current and previous year along with YoY growth. Total casual
 ### How to Use the Dashboard
 - **Filters**: Use the filters on the dashboard to explore specific dimensions of the data, such as accident severity, vehicle type, and date range.
 - **Interactivity**: Click on different elements in the dashboard to drill down into more detailed views.
-- **Export Options**: Tableau allows exporting specific views or the entire dashboard as an image or PDF for reporting purposes.
+
+## Conclusion
+
+This Tableau project provides a comprehensive view of traffic accident data, highlighting key trends and insights that can help stakeholders make informed decisions to improve road safety.
+
+
