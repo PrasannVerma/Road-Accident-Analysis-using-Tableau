@@ -18,3 +18,7 @@ The goal of this project is to provide an interactive Tableau dashboard that all
 
 Total accidents in current and previous year along with YoY growth. Total casualties based on accident severity. Different type of casualties with respect to current and previous year along with YoY growth.
 
+### How to Use the Dashboard
+- **Filters**: Use the filters on the dashboard to explore specific dimensions of the data, such as accident severity, vehicle type, and date range.
+- **Interactivity**: Click on different elements in the dashboard to drill down into more detailed views.
+- **Export Options**: Tableau allows exporting specific views or the entire dashboard as an image or PDF for reporting purposes.
