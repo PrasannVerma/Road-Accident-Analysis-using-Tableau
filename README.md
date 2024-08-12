@@ -1,6 +1,6 @@
 # Road-Accident-Analysis-using-Tableau
 
-![Uploading Dashboard 1.png…]()
+![Dashboard 1](https://github.com/user-attachments/assets/368e21c4-afe6-4333-bc02-066150c9251c)
 
 ## Project Overview
 
